@@ -1,0 +1,122 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="SmartLite WebQuiz 2002 1.0.70">
+<meta name="ORIGINATOR" content="SmartLite WebQuiz 2002 1.0.70">
+<meta name="KEYWORDS" content="quiz, quizzes, test, tests, questionnaires, software, exam, questions, web, surveys, answers, electronic, multimedia, authoring, evaluation, evaluations, authoring software, education, school, teachers, educational software, training, webquiz, winasks, winask, smartlite">
+<meta name="DESCRIPTION" content="Questionnaire created by SmartLite WebQuiz, http://www.smartlite.it">
+
+<style type="text/css">
+	A:link {color: blue; text-decoration: none}
+	A:visited {color: blue; text-decoration: none}
+	A:active {color: blue; text-decoration: none}
+	A:hover {color: red; text-decoration: underline}
+     }
+</style>
+
+<script language="Javascript">
+	// <!--
+	if (document.images)
+	{
+		EvaluateImage_normal = new Image();			EvaluateImage_normal.src = "m_eval_button.gif";
+		EvaluateImage_up = new Image();				EvaluateImage_up.src = "m_eval_button2.gif";
+		EvaluateImage_down = new Image();			EvaluateImage_down.src = "m_eval_button.gif";
+
+		NextImage_normal = new Image();				NextImage_normal.src = "m_next_button.gif";
+		NextImage_up = new Image();					NextImage_up.src = "m_next_button2.gif";
+		NextImage_down = new Image();				NextImage_down.src = "m_next_button.gif";
+		
+		BackImage_normal = new Image();				BackImage_normal.src = "m_back_button.gif";
+		BackImage_up = new Image();					BackImage_up.src = "m_back_button2.gif";
+		BackImage_down = new Image();				BackImage_down.src = "m_back_button.gif";
+		
+		BeginImage_normal = new Image();			BeginImage_normal.src = "m_begin_button.gif";
+		BeginImage_up = new Image();				BeginImage_up.src = "m_begin_button2.gif";
+		BeginImage_down = new Image();				BeginImage_down.src = "m_begin_button.gif";
+	}
+
+	function flipImage ()
+	{
+		if (document.images)
+		{
+			for (var i=0; i < flipImage.arguments.length; i+=2)
+			{
+				document[flipImage.arguments[i]].src = eval(flipImage.arguments[i+1] + '.src');
+			}
+		}
+
+		return;
+	}
+	function init ()
+	{
+		document.WapForm.reset();
+		myshow(1);
+	}
+
+	// -->
+</script>
+
+<title>Test 4: Projekte durchführen und beenden</title>
+<script language=javascript src="projektmanagement_test4.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" onLoad="init()">
+
+<table border="0" width="100%" bgcolor="#6699CC" cellspacing="0" cellpadding="0"
+height="50">
+  <tr>
+    <td width="35%"><img src="m_header.gif"></td>
+    <td width="65%"><p align="center"><big><big><font color="#FFFFFF" face="Arial, Verdana"><strong>
+    Test 4: Projekte durchführen und beenden</strong></font></big></big></td>
+  </tr>
+</table>
+
+<form name="WapForm" onSubmit="return false">
+    <div id="wq_user">
+      <table border=0 cellPadding=10 cellSpacing=4 width="100%">
+      <!--<tr>
+        <td colspan=2 bgColor=#f4f4ff><font face=Verdana><small></small></font></td></tr>
+      <tr>
+        <td bgColor=#e6e6ff width="20%"><font color=#000080 
+          face=Verdana><strong><small>First name:</small></strong></font></td>
+        <td bgColor=#f4f4ff><input name=Quiz.UserData.First_Name></td></tr>
+      <tr>
+        <td bgColor=#e6e6ff width="20%"><font color=#000080 
+          face=Verdana><strong><small>Last name:</small></strong></font></td>
+        <td bgColor=#f4f4ff><input name=Quiz.UserData.Last_Name></td></tr>
+      <tr>
+        <td colspan=2 bgColor=#f4f4ff></td></tr>-->
+      <tr>
+      <tr>
+        <td width="50"><font color=#000080 
+          face=Verdana><strong><small>&nbsp;</small></strong></font></td>
+        <td><a href="javascript:void(0)" onclick="javascript:myshow(1)" onmouseout="flipImage ('Begin', 'BeginImage_normal');" onmouseover="flipImage ('Begin', 'BeginImage_up');"><img alt="Start" border=0 height=50 width=78 name=Begin src="m_begin_button.gif"></a></td></tr>
+      </table>
+    </div>
+
+    <script language=javascript><!--
+{
+doTest();
+}//--></script>
+
+
+    <div id="wq_final" style="display:none">
+      <table border=0 cellPadding=10 cellSpacing=4 width="100%">
+      <tr>
+        <td colspan=2 bgColor=#f4f4ff><font face=Verdana><small></small></font></td></tr>
+      </table>
+    </div>
+    <div id="wq_final2" style="display:none">
+      <br>
+      <a href="javascript:void(0)"  onClick="myshow(14)" onmouseout="flipImage ('Back', 'BackImage_normal');" onmouseover="flipImage ('Back', 'BackImage_up');"><img alt="Back" border=0 height=50 width=78 name=Back src="m_back_button.gif"></a>
+      <a href="javascript:void(0)"  onClick="correct(document.WapForm)" onmouseout="flipImage ('Evaluate2', 'EvaluateImage_normal');" onmouseover="flipImage ('Evaluate2', 'EvaluateImage_up');"><img alt="Evaluate" border=0 height=50 width=78 name=Evaluate2 src="m_eval_button.gif"></a>
+    </div>
+
+</form>
+
+<div id="wq_footer">
+<p align="center"><font face="Verdana, Arial"><small><small>Copyright © Rudolf Haufe Verlag GmbH & Co. KG. Created and managed with <a title="Click here to visit WebQuiz site" href="http://www.smartlite.it/go.asp?OLDLP" target = "_blank">SmartLite WebQuiz</a>.</small></small></font></p>
+</div>
+</body>
+</html>
+
