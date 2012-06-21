@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:58
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 11:00
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -882,158 +882,18 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
 <use Bewerbung_Schule/app_mature.pdf, page 4> [18 <./Bewerbung_Schule/app_matur
 e.pdf>]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.151 ...ildschirmfoto_am 2012-06-13_14_48_20.png}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png, id=262, 1606.0pt x 
+903.375pt>
+File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png Graphic file (t
+ype png)
+ <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png>
+Overfull \hbox (1007.14258pt too wide) in paragraph at lines 151--152
+[][] 
+ []
 
 
-LaTeX Warning: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_14_48_20.png'
- not found on input line 151.
+Overfull \vbox (120.3414pt too high) has occurred while \output is active []
 
-
-! Package pdftex.def Error: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_
-14_48_20.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.151 ...ildschirmfoto_am 2012-06-13_14_48_20.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 151.
-
-(/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-! Missing $ inserted.
-<inserted text> 
-                $
-l.151 ...ildschirmfoto_am 2012-06-13_14_48_20.png}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.153 ...ildschirmfoto_am 2012-06-13_14_48_22.png}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_14_48_22.png'
- not found on input line 153.
-
-
-! Package pdftex.def Error: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_
-14_48_22.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.153 ...ildschirmfoto_am 2012-06-13_14_48_22.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.153 ...ildschirmfoto_am 2012-06-13_14_48_22.png}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.155 ...ildschirmfoto_am 2012-06-13_14_48_26.png}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_14_48_26.png'
- not found on input line 155.
-
-
-! Package pdftex.def Error: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_
-14_48_26.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.155 ...ildschirmfoto_am 2012-06-13_14_48_26.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.155 ...ildschirmfoto_am 2012-06-13_14_48_26.png}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.157 ...ildschirmfoto_am 2012-06-13_14_48_43.png}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_14_48_43.png'
- not found on input line 157.
-
-
-! Package pdftex.def Error: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_
-14_48_43.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.157 ...ildschirmfoto_am 2012-06-13_14_48_43.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.157 ...ildschirmfoto_am 2012-06-13_14_48_43.png}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1041,30 +901,87 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19] (./berichtv1.aux) ) 
+[19 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png (PNG copy)>]
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png, id=267, 1606.0pt x 
+903.375pt>
+File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png Graphic file (t
+ype png)
+ <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png>
+Overfull \hbox (1007.14258pt too wide) in paragraph at lines 153--154
+[][] 
+ []
+
+
+Overfull \vbox (120.3414pt too high) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png (PNG copy)>]
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png, id=271, 1606.0pt x 
+903.375pt>
+File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png Graphic file (t
+ype png)
+ <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png>
+Overfull \hbox (1007.14258pt too wide) in paragraph at lines 155--156
+[][] 
+ []
+
+
+Overfull \vbox (120.3414pt too high) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png (PNG copy)>]
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png, id=275, 1606.0pt x 
+903.375pt>
+File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png Graphic file (t
+ype png)
+ <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png>
+Overfull \hbox (1007.14258pt too wide) in paragraph at lines 157--158
+[][] 
+ []
+
+
+Overfull \vbox (120.3414pt too high) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png (PNG copy)>]
+(./berichtv1.aux) ) 
 Here is how much of TeX's memory you used:
- 4938 strings out of 495061
- 64776 string characters out of 1182622
+ 4939 strings out of 495061
+ 65321 string characters out of 1182622
  141973 words of memory out of 3000000
- 7990 multiletter control sequences out of 15000+50000
- 17089 words of font info for 48 fonts, out of 3000000 for 9000
+ 7991 multiletter control sequences out of 15000+50000
+ 16775 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  33i,17n,43p,794b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ect
-t1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk>
- </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/dav3
-/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/dav3/.texmf-var/
-fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts/pk/ljf
-our/jknappen/ec/ecrm1000.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen
-/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200
-.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr
-/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texm
-f-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (19 pages, 3380961 bytes).
+ </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200
+.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </ho
+me/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/dav3/.tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts
+/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/j
+knappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600p
+k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on berichtv1.pdf (22 pages, 3851907 bytes).
 PDF statistics:
- 605 PDF objects out of 1000 (max. 8388607)
+ 571 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
