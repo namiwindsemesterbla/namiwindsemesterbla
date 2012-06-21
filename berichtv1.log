@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 11:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 11:56
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -620,15 +620,6 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -636,7 +627,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 122--125
+Underfull \hbox (badness 10000) in paragraph at lines 93--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
 
  []
 
@@ -935,7 +936,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  4939 strings out of 495061
  65321 string characters out of 1182622
- 142973 words of memory out of 3000000
+ 141973 words of memory out of 3000000
  7991 multiletter control sequences out of 15000+50000
  16775 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -948,9 +949,9 @@ mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts
 knappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600p
 k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (21 pages, 3668888 bytes).
+Output written on berichtv1.pdf (21 pages, 3669307 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
+ 573 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
