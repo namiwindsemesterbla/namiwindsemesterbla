@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 11:00
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 11:01
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -884,25 +884,356 @@ File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
 e.pdf>]
 <Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png, id=262, 1606.0pt x 
 903.375pt>
+! Missing number, treated as zero.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \unhbox 
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \unhbox 
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png Graphic file (t
 ype png)
- <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png>
-Overfull \hbox (1007.14258pt too wide) in paragraph at lines 151--152
-[][] 
- []
+<use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png>
+! Missing number, treated as zero.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing = inserted for \ifdim.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   <
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   <
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Bad register code (59203584).
+\Gscale@box ...dim #2\p@ <\z@ \ht \tw@ -#2\dp \z@ 
+                                                  \dp \tw@ -#2\ht \z@ \else ...
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A register number must be between 0 and 32767.
+I changed this one to zero.
+
+! Bad register code (59203584).
+\Gscale@box ...tw@ -#2\dp \z@ \dp \tw@ -#2\ht \z@ 
+                                                  \else \ht \tw@ #2\ht \z@ \...
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A register number must be between 0 and 32767.
+I changed this one to zero.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing = inserted for \ifdim.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   <
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   <
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \hbox 
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \hbox 
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing { inserted.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   a
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \box 
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \box 
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.151 ...ildschirmfoto_am_2012-06-13_14_47_20.png}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
 
-Overfull \vbox (120.3414pt too high) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[19 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png (PNG copy)>]
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png, id=267, 1606.0pt x 
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png, id=263, 1606.0pt x 
 903.375pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png Graphic file (t
 ype png)
@@ -912,6 +1243,12 @@ Overfull \hbox (1007.14258pt too wide) in paragraph at lines 153--154
  []
 
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
 Overfull \vbox (120.3414pt too high) has occurred while \output is active []
 
 
@@ -979,7 +1316,7 @@ mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts
 knappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600p
 k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (22 pages, 3851907 bytes).
+Output written on berichtv1.pdf (22 pages, 3747028 bytes).
 PDF statistics:
  571 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
