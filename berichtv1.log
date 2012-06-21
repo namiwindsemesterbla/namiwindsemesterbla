@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 11:02
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 11:39
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -882,35 +882,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
 <use Bewerbung_Schule/app_mature.pdf, page 4> [18 <./Bewerbung_Schule/app_matur
 e.pdf>]
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png, id=262, 1606.0pt x 
-903.375pt>
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png, id=262, 894.34125pt
+ x 743.77875pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png Graphic file (t
 ype png)
- <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png>
-Overfull \hbox (123.86432pt too wide) in paragraph at lines 151--152
-[][] 
- []
 
-
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png, id=263, 1606.0pt x 
-903.375pt>
+<use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png>
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png, id=263, 957.5775pt 
+x 758.835pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png Graphic file (t
 ype png)
  <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png>
-Overfull \hbox (123.86432pt too wide) in paragraph at lines 153--154
-[][] 
- []
-
-
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png, id=264, 1606.0pt x 
-903.375pt>
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png, id=264, 894.34125pt
+ x 728.7225pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png Graphic file (t
 ype png)
  <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png>
-Overfull \hbox (123.86432pt too wide) in paragraph at lines 155--156
-[][] 
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -919,15 +906,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [19 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png (PNG copy)> <.
 /Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png (PNG copy)>]
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png, id=269, 1606.0pt x 
-903.375pt>
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png, id=269, 954.56625pt
+ x 728.7225pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png Graphic file (t
 ype png)
  <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png>
-Overfull \hbox (123.86432pt too wide) in paragraph at lines 157--158
-[][] 
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -953,7 +936,7 @@ mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts
 knappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600p
 k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (20 pages, 3850472 bytes).
+Output written on berichtv1.pdf (20 pages, 3665725 bytes).
 PDF statistics:
  565 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
