@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:24
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:39
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -641,26 +641,46 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5] (./berichtv1.aux) ) 
+[5]
+<merkblatt_befristete_studienerlaubnis.pdf, id=28, page=1, 614.295pt x 794.97pt
+>
+File: merkblatt_befristete_studienerlaubnis.pdf Graphic file (type pdf)
+ <use merkblatt_befristete_studienerlaubnis.pdf, page 1>
+File: merkblatt_befristete_studienerlaubnis.pdf Graphic file (type pdf)
+
+<use merkblatt_befristete_studienerlaubnis.pdf, page 1>
+File: merkblatt_befristete_studienerlaubnis.pdf Graphic file (type pdf)
+
+<use merkblatt_befristete_studienerlaubnis.pdf, page 1>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: merkblatt_befristete_studienerlaubnis.pdf Graphic file (type pdf)
+<use merkblatt_befristete_studienerlaubnis.pdf, page 1> [6 <./merkblatt_befrist
+ete_studienerlaubnis.pdf>] (./berichtv1.aux) ) 
 Here is how much of TeX's memory you used:
- 4854 strings out of 495061
- 62009 string characters out of 1182622
+ 4860 strings out of 495061
+ 62277 string characters out of 1182622
  141973 words of memory out of 3000000
- 7929 multiletter control sequences out of 15000+50000
+ 7933 multiletter control sequences out of 15000+50000
  16775 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 30i,11n,43p,794b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
-1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> 
-</home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/dav3/
-.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/f
-onts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/dav3/.texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.
-600pk></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (5 pages, 105166 bytes).
+ 32i,17n,43p,794b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/dav3/.texmf-var/fonts/pk/
+ljfour/jknappen/ec/ecbx1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecbx1000.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
+095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> <
+/home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/dav3/.
+texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fo
+nts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfou
+r/jknappen/ec/ecrm1728.600pk></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb>
+Output written on berichtv1.pdf (6 pages, 1604690 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
+ 347 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
