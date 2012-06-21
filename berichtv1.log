@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 12:09
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 12:12
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -968,10 +968,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 /Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png (PNG copy)>]
 (./berichtv1.aux) ) 
 Here is how much of TeX's memory you used:
- 4947 strings out of 495061
- 65416 string characters out of 1182622
+ 4942 strings out of 495061
+ 65357 string characters out of 1182622
  141973 words of memory out of 3000000
- 7999 multiletter control sequences out of 15000+50000
+ 7994 multiletter control sequences out of 15000+50000
  16775 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  33i,17n,43p,794b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -983,9 +983,9 @@ mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts
 knappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600p
 k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (21 pages, 3672947 bytes).
+Output written on berichtv1.pdf (21 pages, 3671542 bytes).
 PDF statistics:
- 580 PDF objects out of 1000 (max. 8388607)
+ 576 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
