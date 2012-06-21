@@ -1,16 +1,40 @@
 \documentclass[11pt]{article}
 
-  \usepackage[ngerman]{babel}
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}  % Bei Problemen mit Umlauten:
-                               % "uft8" durch "latin1", "ansinew" oder "applemac" ersetzen.
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} 
+\usepackage[pdftex]{graphicx}
+\usepackage{pdfpages}
+\usepackage{geometry,blindtext}
+
+\geometry{a4paper,left=30mm,right=20mm, top=1cm, bottom=2cm, includeheadfoot}
+
+\usepackage{float}
+
+\usepackage{amsmath, amsthm, amssymb}
+
+\usepackage[babel,german=quotes]{csquotes}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyfoot[L]{\small{\textbf{Grundlagen der Informatik\\Teilprüfung 2}}}
+
+\fancyhead[L]{\small{David Brüggemann, Björn Molling}}
+
+\fancyhead[R]{\today}
+
+%\renewcommand{\headrulewidth}{0.5pt}
+
+% Bei Problemen mit Umlauten:
+% "uft8" durch "latin1", "ansinew" oder "applemac" ersetzen.
 
 \begin{document}
 
 
 \begin{titlepage}
-
-
 \begin{center}
   \title{Projektmanagment: \\Auslandssemester in Windhoek, Namibia}
   \author{Patrick Kotz, David Brüggemann, Merlin Fischer,\\ Fachhochschule Südwestfalen}
@@ -18,11 +42,15 @@
 \end{center}
 \end{titlepage}
 
-\clearpage
-\vspace*{\fill}
+
 \maketitle
-\vspace*{\fill}
-\clearpage
+\fancyfoot[C]{\thepage}
+\newpage
+
+\tableofcontents
+\newpage
+
+\maketitle
 
 \newpage
 \tableofcontents
