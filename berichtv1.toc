@@ -8,6 +8,5 @@
 \contentsline {subsubsection}{\numberline {3.3.1}Impfung}{5}
 \contentsline {subsubsection}{\numberline {3.3.2}Antr\IeC {\"a}ge}{6}
 \contentsline {subsection}{\numberline {3.4}Flug}{6}
-\contentsline {section}{\numberline {4}Reflexion zum Projektverlauf}{6}
-\contentsline {subsection}{\numberline {4.1}Gruppensicht}{6}
+\contentsline {section}{\numberline {4}Reflexion zum Projektverlauf aus Gruppensicht}{6}
 \contentsline {section}{\numberline {5}Anhang}{6}
