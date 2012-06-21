@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:20
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:21
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -572,16 +572,16 @@ driver: pdftex
 -----------------------
 [1
 
-]
-LaTeX Font Info:    Try loading font information for U+msa on input line 46.
+] (./berichtv1.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
  (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 46.
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./berichtv1.toc)
+))
 \tf@toc=\write3
 \openout3 = `berichtv1.toc'.
 
@@ -592,7 +592,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (./berichtv1.toc)
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./berichtv1.toc)
 \tf@toc=\write4
 \openout4 = `berichtv1.toc'.
 
@@ -662,16 +662,16 @@ Here is how much of TeX's memory you used:
  7929 multiletter control sequences out of 15000+50000
  16775 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 30i,11n,43p,794b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,11n,43p,794b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
-1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> 
-</home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/dav3/
-.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/f
-onts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/dav3/.texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.
+1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> 
+</home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk> </home/dav3/
+.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/dav3/.texmf-var/f
+onts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.
 600pk></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (7 pages, 106782 bytes).
+Output written on berichtv1.pdf (7 pages, 106755 bytes).
 PDF statistics:
  322 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
