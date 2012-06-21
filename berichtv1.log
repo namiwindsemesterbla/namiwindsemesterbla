@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:21
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:22
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -572,16 +572,16 @@ driver: pdftex
 -----------------------
 [1
 
-] (./berichtv1.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 47.
  (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 47.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-))
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./berichtv1.toc)
 \tf@toc=\write3
 \openout3 = `berichtv1.toc'.
 
@@ -592,10 +592,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./berichtv1.toc)
-\tf@toc=\write4
-\openout4 = `berichtv1.toc'.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -604,12 +609,23 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 72--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 97.
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--106
 
  []
 
@@ -620,60 +636,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 76--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 101.
-
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--110
-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[6] (./berichtv1.aux) ) 
+[5] (./berichtv1.aux) ) 
 Here is how much of TeX's memory you used:
- 4856 strings out of 495061
- 62037 string characters out of 1182622
+ 4854 strings out of 495061
+ 62009 string characters out of 1182622
  141973 words of memory out of 3000000
  7929 multiletter control sequences out of 15000+50000
  16775 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 30i,11n,43p,794b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,11n,43p,794b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
-1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> 
-</home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk> </home/dav3/
-.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/dav3/.texmf-var/f
-onts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfo
-ur/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/
-ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.
+1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> 
+</home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/dav3/
+.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/f
+onts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/dav3/.texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecrm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.
 600pk></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (7 pages, 106772 bytes).
+Output written on berichtv1.pdf (6 pages, 105872 bytes).
 PDF statistics:
- 322 PDF objects out of 1000 (max. 8388607)
+ 317 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
