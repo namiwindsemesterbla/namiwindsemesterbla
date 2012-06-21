@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:50
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:51
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -882,51 +882,87 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
 <use Bewerbung_Schule/app_mature.pdf, page 4> [18 <./Bewerbung_Schule/app_matur
 e.pdf>]
+! Argument of \language@active@arg" has an extra }.
+<inserted text> 
+                \par 
+l.151 ...ldschirmfoto am 2012-06-13 14_48_20.png"}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \language@active@arg" was complete.
+<to be read again> 
+                   \par 
+l.151 ...ldschirmfoto am 2012-06-13 14_48_20.png"}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \par 
+l.151 ...ldschirmfoto am 2012-06-13 14_48_20.png"}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \par 
+l.151 ...ldschirmfoto am 2012-06-13 14_48_20.png"}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Runaway argument?
+! Paragraph ended before \Gin@rule@.png was complete.
+<to be read again> 
+                   \par 
+l.151 ...ldschirmfoto am 2012-06-13 14_48_20.png"}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+! Paragraph ended before \Gin@setfile was complete.
+<to be read again> 
+                   \par 
+l.151 ...ldschirmfoto am 2012-06-13 14_48_20.png"}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra \endcsname.
+<argument> ...csname Gin@rule@\Gin@ext \endcsname 
+                                                  {\Gin@base \Gin@ext }
+l.151 ...ldschirmfoto am 2012-06-13 14_48_20.png"}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.151 ...ildschirmfoto am 2012-06-13 14_48_20.png}
+l.151 ...ldschirmfoto am 2012-06-13 14_48_20.png"}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-
-LaTeX Warning: File `Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_48_20.png'
- not found on input line 151.
-
-
-<Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_48_20.png, id=262, 1606.0pt x 
-903.375pt>
-File: Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_48_20.png Graphic file (t
-ype png)
- <use Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_48_20.png>
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.151 ...ildschirmfoto am 2012-06-13 14_48_20.png}
+l.151 ...ldschirmfoto am 2012-06-13 14_48_20.png"}
                                                   
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-
-Overfull \hbox (1258.29327pt too wide) in paragraph at lines 151--152
-[][] 
- []
-
-
-Overfull \vbox (120.3414pt too high) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[19 <./Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_48_20.png (PNG copy)>]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -940,7 +976,7 @@ LaTeX Warning: File `Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_47_22.png'
  not found on input line 153.
 
 
-<Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_47_22.png, id=270, 1606.0pt x 
+<Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_47_22.png, id=262, 1606.0pt x 
 903.375pt>
 File: Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_47_22.png Graphic file (t
 ype png)
@@ -962,6 +998,12 @@ Overfull \hbox (1258.29327pt too wide) in paragraph at lines 153--154
  []
 
 
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
 Overfull \vbox (120.3414pt too high) has occurred while \output is active []
 
 
@@ -985,7 +1027,7 @@ LaTeX Warning: File `Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_48_26.png'
  not found on input line 155.
 
 
-<Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_48_26.png, id=274, 1606.0pt x 
+<Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_48_26.png, id=273, 1606.0pt x 
 903.375pt>
 File: Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_48_26.png Graphic file (t
 ype png)
@@ -1030,7 +1072,7 @@ LaTeX Warning: File `Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_47_43.png'
  not found on input line 157.
 
 
-<Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_47_43.png, id=278, 1606.0pt x 
+<Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_47_43.png, id=277, 1606.0pt x 
 903.375pt>
 File: Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_47_43.png Graphic file (t
 ype png)
@@ -1064,8 +1106,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [22 <./Flug Air Berlin/Bildschirmfoto am 2012-06-13 14_47_43.png (PNG copy)>]
 (./berichtv1.aux) ) 
 Here is how much of TeX's memory you used:
- 4934 strings out of 495061
- 65157 string characters out of 1182622
+ 4937 strings out of 495061
+ 65018 string characters out of 1182622
  141973 words of memory out of 3000000
  7991 multiletter control sequences out of 15000+50000
  16775 words of font info for 47 fonts, out of 3000000 for 9000
@@ -1082,9 +1124,9 @@ k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-tex
 live/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (22 pages, 3878119 bytes).
+Output written on berichtv1.pdf (22 pages, 3773469 bytes).
 PDF statistics:
  584 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
