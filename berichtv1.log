@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 11:46
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 11:48
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -613,35 +613,21 @@ Overfull \hbox (11.72815pt too wide) in paragraph at lines 68--70
 sters (Ab-gaben und Prü-fungszeiträume)
  []
 
-
-Overfull \hbox (19.45564pt too wide) in paragraph at lines 73--85
-\T1/cmr/m/n/10.95 vorher) Imp-fung (et-wa halbes Jahr vorher) Be-wer-bung ab-sc
-hick-en (An-fang des Be-wer-bungszeitraums)
- []
-
-
-Overfull \hbox (14.20235pt too wide) in paragraph at lines 86--88
-[]\T1/cmr/m/n/10.95 Informationen zum Reisep-a-ss: http://www.fremdenverkehrsbu
-ero.info/reisepass-beantragen.php 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--95
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 115.
-
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 74.
 (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 115.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -650,7 +636,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 121--124
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
@@ -661,7 +647,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [5]
-<merkblatt_befristete_studienerlaubnis.pdf, id=28, page=1, 614.295pt x 794.97pt
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6]
+<merkblatt_befristete_studienerlaubnis.pdf, id=31, page=1, 614.295pt x 794.97pt
 >
 File: merkblatt_befristete_studienerlaubnis.pdf Graphic file (type pdf)
  <use merkblatt_befristete_studienerlaubnis.pdf, page 1>
@@ -678,9 +671,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: merkblatt_befristete_studienerlaubnis.pdf Graphic file (type pdf)
-<use merkblatt_befristete_studienerlaubnis.pdf, page 1> [6 <./merkblatt_befrist
+<use merkblatt_befristete_studienerlaubnis.pdf, page 1> [7 <./merkblatt_befrist
 ete_studienerlaubnis.pdf>]
-<Arbeitserlaubnis/deed_of_surety.pdf, id=61, page=1, 597.23125pt x 845.1575pt>
+<Arbeitserlaubnis/deed_of_surety.pdf, id=65, page=1, 597.23125pt x 845.1575pt>
 File: Arbeitserlaubnis/deed_of_surety.pdf Graphic file (type pdf)
 
 <use Arbeitserlaubnis/deed_of_surety.pdf, page 1>
@@ -697,7 +690,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Arbeitserlaubnis/deed_of_surety.pdf Graphic file (type pdf)
-<use Arbeitserlaubnis/deed_of_surety.pdf, page 1> [7 <./Arbeitserlaubnis/deed_o
+<use Arbeitserlaubnis/deed_of_surety.pdf, page 1> [8 <./Arbeitserlaubnis/deed_o
 f_surety.pdf>]
 
 pdfTeX warning: pdflatex (file ./Arbeitserlaubnis/prospective_employer_1.pdf): 
@@ -711,7 +704,7 @@ PDF inclusion: found PDF version <1.5>, but at most version <1.4> allowed
 pdfTeX warning: pdflatex (file ./Arbeitserlaubnis/prospective_employer_1.pdf): 
 PDF inclusion: found PDF version <1.5>, but at most version <1.4> allowed
 
-<Arbeitserlaubnis/prospective_employer_1.pdf, id=100, page=1, 614.295pt x 794.9
+<Arbeitserlaubnis/prospective_employer_1.pdf, id=103, page=1, 614.295pt x 794.9
 7pt>
 File: Arbeitserlaubnis/prospective_employer_1.pdf Graphic file (type pdf)
  <use Arbeitserlaubnis/prospective_employer_1.pdf, page 1>
@@ -728,13 +721,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Arbeitserlaubnis/prospective_employer_1.pdf Graphic file (type pdf)
-<use Arbeitserlaubnis/prospective_employer_1.pdf, page 1> [8 <./Arbeitserlaubni
+<use Arbeitserlaubnis/prospective_employer_1.pdf, page 1> [9 <./Arbeitserlaubni
 s/prospective_employer_1.pdf>]
 
 pdfTeX warning: pdflatex (file ./Arbeitserlaubnis/prospective_employer_1.pdf): 
 PDF inclusion: found PDF version <1.5>, but at most version <1.4> allowed
 
-<Arbeitserlaubnis/prospective_employer_1.pdf, id=108, page=2, 614.295pt x 794.9
+<Arbeitserlaubnis/prospective_employer_1.pdf, id=111, page=2, 614.295pt x 794.9
 7pt>
 File: Arbeitserlaubnis/prospective_employer_1.pdf Graphic file (type pdf)
  <use Arbeitserlaubnis/prospective_employer_1.pdf, page 2>
@@ -748,9 +741,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Arbeitserlaubnis/prospective_employer_1.pdf Graphic file (type pdf)
-<use Arbeitserlaubnis/prospective_employer_1.pdf, page 2> [9 <./Arbeitserlaubni
-s/prospective_employer_1.pdf>]
-<Visum/Antrag_medical.pdf, id=117, page=1, 597.23125pt x 845.1575pt>
+<use Arbeitserlaubnis/prospective_employer_1.pdf, page 2> [10 <./Arbeitserlaubn
+is/prospective_employer_1.pdf>]
+<Visum/Antrag_medical.pdf, id=120, page=1, 597.23125pt x 845.1575pt>
 File: Visum/Antrag_medical.pdf Graphic file (type pdf)
 
 <use Visum/Antrag_medical.pdf, page 1>
@@ -766,8 +759,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Visum/Antrag_medical.pdf Graphic file (type pdf)
-<use Visum/Antrag_medical.pdf, page 1> [10 <./Visum/Antrag_medical.pdf>]
-<Visum/Antrag_radiological.pdf, id=155, page=1, 597.23125pt x 845.1575pt>
+<use Visum/Antrag_medical.pdf, page 1> [11 <./Visum/Antrag_medical.pdf>]
+<Visum/Antrag_radiological.pdf, id=158, page=1, 597.23125pt x 845.1575pt>
 File: Visum/Antrag_radiological.pdf Graphic file (type pdf)
 
 <use Visum/Antrag_radiological.pdf, page 1>
@@ -784,8 +777,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Visum/Antrag_radiological.pdf Graphic file (type pdf)
-<use Visum/Antrag_radiological.pdf, page 1> [11 <./Visum/Antrag_radiological.pd
-f>] <Bewerbung_Schule/app_form.pdf, id=193, page=1, 597.23125pt x 844.15375pt>
+<use Visum/Antrag_radiological.pdf, page 1> [12 <./Visum/Antrag_radiological.pd
+f>] <Bewerbung_Schule/app_form.pdf, id=196, page=1, 597.23125pt x 844.15375pt>
 File: Bewerbung_Schule/app_form.pdf Graphic file (type pdf)
 
 <use Bewerbung_Schule/app_form.pdf, page 1>
@@ -802,8 +795,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Bewerbung_Schule/app_form.pdf Graphic file (type pdf)
-<use Bewerbung_Schule/app_form.pdf, page 1> [12 <./Bewerbung_Schule/app_form.pd
-f>] <Bewerbung_Schule/app_form.pdf, id=209, page=2, 597.23125pt x 844.15375pt>
+<use Bewerbung_Schule/app_form.pdf, page 1> [13 <./Bewerbung_Schule/app_form.pd
+f>] <Bewerbung_Schule/app_form.pdf, id=213, page=2, 597.23125pt x 844.15375pt>
 File: Bewerbung_Schule/app_form.pdf Graphic file (type pdf)
 
 <use Bewerbung_Schule/app_form.pdf, page 2>
@@ -817,8 +810,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Bewerbung_Schule/app_form.pdf Graphic file (type pdf)
-<use Bewerbung_Schule/app_form.pdf, page 2> [13 <./Bewerbung_Schule/app_form.pd
-f>] <Bewerbung_Schule/app_form.pdf, id=217, page=3, 597.23125pt x 844.15375pt>
+<use Bewerbung_Schule/app_form.pdf, page 2> [14 <./Bewerbung_Schule/app_form.pd
+f>] <Bewerbung_Schule/app_form.pdf, id=220, page=3, 597.23125pt x 844.15375pt>
 File: Bewerbung_Schule/app_form.pdf Graphic file (type pdf)
 
 <use Bewerbung_Schule/app_form.pdf, page 3>
@@ -832,9 +825,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Bewerbung_Schule/app_form.pdf Graphic file (type pdf)
-<use Bewerbung_Schule/app_form.pdf, page 3> [14 <./Bewerbung_Schule/app_form.pd
+<use Bewerbung_Schule/app_form.pdf, page 3> [15 <./Bewerbung_Schule/app_form.pd
 f>]
-<Bewerbung_Schule/app_mature.pdf, id=227, page=1, 597.23125pt x 844.15375pt>
+<Bewerbung_Schule/app_mature.pdf, id=230, page=1, 597.23125pt x 844.15375pt>
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
 
 <use Bewerbung_Schule/app_mature.pdf, page 1>
@@ -851,9 +844,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
-<use Bewerbung_Schule/app_mature.pdf, page 1> [15 <./Bewerbung_Schule/app_matur
+<use Bewerbung_Schule/app_mature.pdf, page 1> [16 <./Bewerbung_Schule/app_matur
 e.pdf>]
-<Bewerbung_Schule/app_mature.pdf, id=243, page=2, 597.23125pt x 844.15375pt>
+<Bewerbung_Schule/app_mature.pdf, id=246, page=2, 597.23125pt x 844.15375pt>
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
 
 <use Bewerbung_Schule/app_mature.pdf, page 2>
@@ -867,9 +860,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
-<use Bewerbung_Schule/app_mature.pdf, page 2> [16 <./Bewerbung_Schule/app_matur
+<use Bewerbung_Schule/app_mature.pdf, page 2> [17 <./Bewerbung_Schule/app_matur
 e.pdf>]
-<Bewerbung_Schule/app_mature.pdf, id=247, page=3, 597.23125pt x 844.15375pt>
+<Bewerbung_Schule/app_mature.pdf, id=250, page=3, 597.23125pt x 844.15375pt>
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
 
 <use Bewerbung_Schule/app_mature.pdf, page 3>
@@ -883,9 +876,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
-<use Bewerbung_Schule/app_mature.pdf, page 3> [17 <./Bewerbung_Schule/app_matur
+<use Bewerbung_Schule/app_mature.pdf, page 3> [18 <./Bewerbung_Schule/app_matur
 e.pdf>]
-<Bewerbung_Schule/app_mature.pdf, id=257, page=4, 597.23125pt x 844.15375pt>
+<Bewerbung_Schule/app_mature.pdf, id=260, page=4, 597.23125pt x 844.15375pt>
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
 
 <use Bewerbung_Schule/app_mature.pdf, page 4>
@@ -899,20 +892,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 File: Bewerbung_Schule/app_mature.pdf Graphic file (type pdf)
-<use Bewerbung_Schule/app_mature.pdf, page 4> [18 <./Bewerbung_Schule/app_matur
+<use Bewerbung_Schule/app_mature.pdf, page 4> [19 <./Bewerbung_Schule/app_matur
 e.pdf>]
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png, id=262, 894.34125pt
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png, id=266, 894.34125pt
  x 743.77875pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png Graphic file (t
 ype png)
 
 <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png>
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png, id=263, 957.5775pt 
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png, id=267, 957.5775pt 
 x 758.835pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png Graphic file (t
 ype png)
  <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png>
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png, id=264, 894.34125pt
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png, id=268, 894.34125pt
  x 728.7225pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png Graphic file (t
 ype png)
@@ -923,9 +916,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png (PNG copy)> <.
+[20 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png (PNG copy)> <.
 /Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png (PNG copy)>]
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png, id=269, 954.56625pt
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png, id=272, 954.56625pt
  x 728.7225pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png Graphic file (t
 ype png)
@@ -936,13 +929,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png (PNG copy)> <.
+[21 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png (PNG copy)> <.
 /Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png (PNG copy)>]
 (./berichtv1.aux) ) 
 Here is how much of TeX's memory you used:
  4939 strings out of 495061
  65321 string characters out of 1182622
- 141973 words of memory out of 3000000
+ 142973 words of memory out of 3000000
  7991 multiletter control sequences out of 15000+50000
  16775 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -955,9 +948,9 @@ mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts
 knappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600p
 k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (20 pages, 3668169 bytes).
+Output written on berichtv1.pdf (21 pages, 3668888 bytes).
 PDF statistics:
- 569 PDF objects out of 1000 (max. 8388607)
+ 572 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
