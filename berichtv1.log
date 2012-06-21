@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:54
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  21 JUN 2012 10:58
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -885,24 +885,24 @@ e.pdf>]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.151 ...irmfoto"\ "am 2012-06-13"\ "14_48_20.png}
+l.151 ...ildschirmfoto_am 2012-06-13_14_48_20.png}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: File `Flug"\ "Air"\ "Berlin/Bildschirmfoto"\ "am 2012-06-13"\ "1
-4_48_20.png' not found on input line 151.
+LaTeX Warning: File `Flug"\ "Air_Berlin/Bildschirmfoto_am 2012-06-13_14_48_20.p
+ng' not found on input line 151.
 
 
-! Package pdftex.def Error: File `Flug"\ Äir"\ "Berlin/Bildschirmfoto"\ äm 2012
--06-13"\ "14_48_20.png' not found.
+! Package pdftex.def Error: File `Flug"\ Äir_Berlin/Bildschirmfoto_am 2012-06-1
+3_14_48_20.png' not found.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.151 ...irmfoto"\ "am 2012-06-13"\ "14_48_20.png}
+l.151 ...ildschirmfoto_am 2012-06-13_14_48_20.png}
                                                   
 Using draft setting for this image.
 Try typing  <return>  to proceed.
@@ -916,7 +916,7 @@ File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.151 ...irmfoto"\ "am 2012-06-13"\ "14_48_20.png}
+l.151 ...ildschirmfoto_am 2012-06-13_14_48_20.png}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -927,24 +927,24 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.153 ...irmfoto"\ "am 2012-06-13"\ "14_48_22.png}
+l.153 ...ildschirmfoto_am 2012-06-13_14_48_22.png}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: File `Flug"\ "Air"\ "Berlin/Bildschirmfoto"\ "am 2012-06-13"\ "1
-4_48_22.png' not found on input line 153.
+LaTeX Warning: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_14_48_22.png'
+ not found on input line 153.
 
 
-! Package pdftex.def Error: File `Flug"\ Äir"\ "Berlin/Bildschirmfoto"\ äm 2012
--06-13"\ "14_48_22.png' not found.
+! Package pdftex.def Error: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_
+14_48_22.png' not found.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.153 ...irmfoto"\ "am 2012-06-13"\ "14_48_22.png}
+l.153 ...ildschirmfoto_am 2012-06-13_14_48_22.png}
                                                   
 Using draft setting for this image.
 Try typing  <return>  to proceed.
@@ -953,7 +953,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.153 ...irmfoto"\ "am 2012-06-13"\ "14_48_22.png}
+l.153 ...ildschirmfoto_am 2012-06-13_14_48_22.png}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -964,24 +964,24 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.155 ...irmfoto"\ "am 2012-06-13"\ "14_48_26.png}
+l.155 ...ildschirmfoto_am 2012-06-13_14_48_26.png}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: File `Flug"\ "Air"\ "Berlin/Bildschirmfoto"\ "am 2012-06-13"\ "1
-4_48_26.png' not found on input line 155.
+LaTeX Warning: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_14_48_26.png'
+ not found on input line 155.
 
 
-! Package pdftex.def Error: File `Flug"\ Äir"\ "Berlin/Bildschirmfoto"\ äm 2012
--06-13"\ "14_48_26.png' not found.
+! Package pdftex.def Error: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_
+14_48_26.png' not found.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.155 ...irmfoto"\ "am 2012-06-13"\ "14_48_26.png}
+l.155 ...ildschirmfoto_am 2012-06-13_14_48_26.png}
                                                   
 Using draft setting for this image.
 Try typing  <return>  to proceed.
@@ -990,7 +990,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.155 ...irmfoto"\ "am 2012-06-13"\ "14_48_26.png}
+l.155 ...ildschirmfoto_am 2012-06-13_14_48_26.png}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1001,24 +1001,24 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.157 ...irmfoto"\ "am 2012-06-13"\ "14_48_43.png}
+l.157 ...ildschirmfoto_am 2012-06-13_14_48_43.png}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: File `Flug"\ "Air"\ "Berlin/Bildschirmfoto"\ "am 2012-06-13"\ "1
-4_48_43.png' not found on input line 157.
+LaTeX Warning: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_14_48_43.png'
+ not found on input line 157.
 
 
-! Package pdftex.def Error: File `Flug"\ Äir"\ "Berlin/Bildschirmfoto"\ äm 2012
--06-13"\ "14_48_43.png' not found.
+! Package pdftex.def Error: File `Flug_Air_Berlin/Bildschirmfoto_am 2012-06-13_
+14_48_43.png' not found.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.157 ...irmfoto"\ "am 2012-06-13"\ "14_48_43.png}
+l.157 ...ildschirmfoto_am 2012-06-13_14_48_43.png}
                                                   
 Using draft setting for this image.
 Try typing  <return>  to proceed.
@@ -1027,7 +1027,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.157 ...irmfoto"\ "am 2012-06-13"\ "14_48_43.png}
+l.157 ...ildschirmfoto_am 2012-06-13_14_48_43.png}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1044,9 +1044,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [19] (./berichtv1.aux) ) 
 Here is how much of TeX's memory you used:
  4943 strings out of 495061
- 64829 string characters out of 1182622
+ 64832 string characters out of 1182622
  141973 words of memory out of 3000000
- 7996 multiletter control sequences out of 15000+50000
+ 7994 multiletter control sequences out of 15000+50000
  17089 words of font info for 48 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  33i,17n,43p,794b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1059,12 +1059,13 @@ our/jknappen/ec/ecrm1000.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen
 /ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200
 .600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr
 /share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texm
-f-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (19 pages, 3382484 bytes).
+f-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb>
+Output written on berichtv1.pdf (19 pages, 3393682 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
+ 613 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
