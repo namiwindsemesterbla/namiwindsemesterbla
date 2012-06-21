@@ -887,17 +887,27 @@ e.pdf>]
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png Graphic file (t
 ype png)
  <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png>
+Overfull \hbox (123.86432pt too wide) in paragraph at lines 151--152
+[][] 
+ []
+
+
 <Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png, id=263, 1606.0pt x 
 903.375pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png Graphic file (t
 ype png)
  <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png>
+Overfull \hbox (123.86432pt too wide) in paragraph at lines 153--154
+[][] 
+ []
+
+
 <Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png, id=264, 1606.0pt x 
 903.375pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png Graphic file (t
 ype png)
  <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png>
-Overfull \hbox (1007.14258pt too wide) in paragraph at lines 155--156
+Overfull \hbox (123.86432pt too wide) in paragraph at lines 155--156
 [][] 
  []
 
@@ -909,28 +919,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [19 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_20.png (PNG copy)> <.
 /Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_22.png (PNG copy)>]
-Overfull \vbox (120.3414pt too high) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[20 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png (PNG copy)>]
-<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png, id=272, 1606.0pt x 
+<Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png, id=269, 1606.0pt x 
 903.375pt>
 File: Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png Graphic file (t
 ype png)
  <use Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png>
-Overfull \hbox (1007.14258pt too wide) in paragraph at lines 157--158
+Overfull \hbox (123.86432pt too wide) in paragraph at lines 157--158
 [][] 
  []
-
-
-Overfull \vbox (120.3414pt too high) has occurred while \output is active []
-
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -938,7 +934,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png (PNG copy)>]
+[20 <./Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_26.png (PNG copy)> <.
+/Flug_Air_Berlin/Bildschirmfoto_am_2012-06-13_14_47_43.png (PNG copy)>]
 (./berichtv1.aux) ) 
 Here is how much of TeX's memory you used:
  4939 strings out of 495061
@@ -956,9 +953,9 @@ mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts
 knappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600p
 k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (21 pages, 3851192 bytes).
+Output written on berichtv1.pdf (20 pages, 3850472 bytes).
 PDF statistics:
- 568 PDF objects out of 1000 (max. 8388607)
+ 565 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
