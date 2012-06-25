@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  25 JUN 2012 13:15
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  25 JUN 2012 13:16
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -648,32 +648,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 171--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--195
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
 
  []
 
@@ -684,6 +659,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [6]
+Underfull \hbox (badness 10000) in paragraph at lines 170--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--194
+
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -972,7 +976,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  4942 strings out of 495061
  65357 string characters out of 1182622
- 144975 words of memory out of 3000000
+ 142975 words of memory out of 3000000
  7994 multiletter control sequences out of 15000+50000
  16775 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -985,7 +989,7 @@ mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts
 knappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600p
 k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (22 pages, 3677833 bytes).
+Output written on berichtv1.pdf (22 pages, 3677883 bytes).
 PDF statistics:
  588 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
