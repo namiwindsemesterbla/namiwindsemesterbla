@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  25 JUN 2012 13:07
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.1)  25 JUN 2012 13:10
 entering extended mode
  %&-line parsing enabled.
 **berichtv1.tex
@@ -970,7 +970,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  4942 strings out of 495061
  65357 string characters out of 1182622
- 141973 words of memory out of 3000000
+ 141975 words of memory out of 3000000
  7994 multiletter control sequences out of 15000+50000
  16775 words of font info for 47 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -983,7 +983,7 @@ mf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/dav3/.texmf-var/fonts
 knappen/ec/ecrm1095.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm1200.600pk> </home/dav3/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600p
 k></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on berichtv1.pdf (21 pages, 3671916 bytes).
+Output written on berichtv1.pdf (21 pages, 3672125 bytes).
 PDF statistics:
  577 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
