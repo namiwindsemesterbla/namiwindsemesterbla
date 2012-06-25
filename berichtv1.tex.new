@@ -1,0 +1,95 @@
+\documentclass[11pt]{article}
+
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} 
+\usepackage[pdftex]{graphicx}
+\usepackage{pdfpages}
+\usepackage{geometry,blindtext}
+
+\geometry{a4paper,left=30mm,right=20mm, top=1cm, bottom=2cm, includeheadfoot}
+
+\usepackage{float}
+
+\usepackage{amsmath, amsthm, amssymb}
+
+\usepackage[babel,german=quotes]{csquotes}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyfoot[L]{\small{\textbf{Basistechniken\\Miniprojekt Auslandssemester}}}
+
+\fancyhead[L]{\small{David Brüggemann, Patrick Kotz, Merlin Fischer}}
+
+\fancyhead[R]{\today}
+\renewcommand{\footrulewidth}{0.4pt} %untere Trennlinie
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Bei Problemen mit Umlauten:
+% "uft8" durch "latin1", "ansinew" oder "applemac" ersetzen.
+
+\begin{document}
+
+
+\begin{titlepage}
+  \title{Projektmanagement: \\Auslandssemester in Windhoek, Namibia}
+  \author{Patrick Kotz, David Brüggemann, Merlin Fischer,\\ Fachhochschule Südwestfalen}
+  \date{\today}
+\end{titlepage}
+
+\fancyfoot[C]{\thepage}
+
+\maketitle
+
+\newpage
+\tableofcontents
+\newpage
+
+\section{Einleitung}
+Ein Auslandsstudium bezeichnet einen Studienaufenthalt von meist ein bis zwei Semestern in einem anderen Land als dem, in dem das Studium aufgenommen wurde und normalerweise auch abgeschlossen werden kann.
+
+\section{Projektauftrag}
+Wir wollen ein Auslandssemester in der Universität Polytechnic of Namibia in Windhoek erfolgreich absolvieren und ohne große finanzielle Verluste zurückkehren.\\
+
+Unter Erfolgreich absolvieren verstehen wir, dass alle Prüfungen an denen wir teilnehmen werden bestanden und anerkannt werden.\\
+
+Unter finanziellen Verlusten verstehen wir, dass wir deutlich mehr in Namibia ausgeben als wir es zu hause tun würden. Um es Messbar zu machen nehmen wir unser Einkommen, welches bei 200-400 Euro liegt.
+
+\newpage
+
+\section{Projektplan}
+
+\subsection{Zeitplan}
+Ein dreiviertel Jahr bevor man das Auslandssemester beginnt, fangen die Vorbereitungen an. Man fängt damit an sich über die Termine für die Bewerbung zu informieren und eine Bewerbung auszufüllen. Innerhalb des Bewerbungszeitraums muss man diese dann nur noch abschicken. Zu dieser Zeit sollte man sich Impfen lassen, denn die Impfung sollte in einem Zeitraum von einem halben Jahr vor der Einreise in Namibia erfolgen. 
+
+Direkt nachdem die Bewerbung angenommen wurde, beginnt der aufwendigste Teil der Vorbereitung. Zuerst muss man die Termine innerhalb des Semesters (Abgaben und Prüfungszeiträume) heraussuchen und dafür einen Terminplan erstellen.
+Mithilfe dieses Terminplans kann man sich eine Unterkunft suchen und den Hin - und Rückflug buchen.  Außerdem muss ein Reisepass beantragt werden, falls man keinen besitzt. Dafür sollten drei bis vier Wochen eingeplant werden. Wenn diese Punkte erledigt wurden, sollte man anfangen die Anträge für ein Visum auszufüllen, um Stress am Flughafen zu vermeiden. Sind alle diese Punkte erfüllt steht einem nichts mehr im Weg ein Auslandssemester zu beginnen.
+
+Ab dem diesem Zeitpunkt kann man sich auf das Lernen Konzentrieren und muss nur noch die Termine aus dem Terminplan einhalten und wichtige Dokumente bereithalten.
+
+\begin{itemize}
+\item Bewerbungstermine Herausfinden und Bewerbung ausfüllen (etwa ein 3/4 Jahr vorher)
+\item Impfung					                           (etwa halbes Jahr vorher)
+\item Bewerbung abschicken			(Anfang des Bewerbungszeitraums)
+\item Termine des Semesters                                  ( )
+\item Unterkunft suchen				(Nachdem man angenommen wurde)
+\item Hin – und Rückflug buchen                           (Nachdem man angenommen wurde)
+\item Reisepass beantragen[falls nötig]		(Bearbeitungszeit von drei bis vier Wochen)
+\item Anträge (Visum)				(Kurz vor dem Hinflug [am besten Frühzeitig])
+\item Hinflug
+\item Termine im Semester (Prüfung etc.)
+\item Rückflug
+
+\end{itemize}
+Informationen zum Reisepass:
+http://www.fremdenverkehrsbuero.info/reisepass-beantragen.php
+
+\newpage
+
+\subsection{Kosten}
+Kosten gering halten:
+Förderung: „go to Afrika“ (zur Zeit Abgelaufen)
+Auslands B
